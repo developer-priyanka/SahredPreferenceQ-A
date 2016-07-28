@@ -1,0 +1,13 @@
+a.What is Shared Preferences?
+
+Ans. Android provids many ways of storing application data.One 
+of its way is called Shared Preferences.Shared Preferences allows to save and 
+retrieve data in the form of key value pair.
+
+
+b.What values can be saved in SharedPreferences?
+Ans. Shared Preferences stores priavte primitive persistent data(ex.user 
+specific settings)in a key value pair.For example data could be End Point 
+URL,Security Access Token and certain user prefernces like color,tiltle,language 
+etc.Data is saved when application closes and brought back when application opens again.
+
